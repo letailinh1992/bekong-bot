@@ -1,0 +1,12 @@
+{
+  "name": "bekong-bot",
+  "version": "1.0.0",
+  "description": "Bé Kong - Kế toán ảo UNPAC Design & Build",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
